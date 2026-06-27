@@ -11,7 +11,9 @@ public class Task {
         //palindrome();
         //LCM();
         //HCF();
-        HCF2();
+        //HCF2();
+        //decimalTObinary();
+        binaryTOdecimal();
     }
     static void primenumber(){
         int n=2;
@@ -198,5 +200,17 @@ public class Task {
             i=i*10;
         }
         System.out.println(bin);
+    }
+    static void binaryTOdecimal(){
+        int bin=1011;
+        int dec=0;
+        int i=0;
+        while(bin>0){
+            int bit=bin%10;
+            dec=dec+bit*(int)Math.pow(2, i);
+            bin=bin/10;
+            i++;
+        }
+        System.out.println(dec);
     }
 }
