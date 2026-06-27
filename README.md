@@ -25,11 +25,13 @@ The goal of this challenge is to build consistency, improve coding speed, and de
 
 ## 📂 Repository Structure
 
-Day01/Java Internal workings,java basic knowledge,operators,variables,dtatypes....
-Day02/conditional statements and basic loop problems
-Day03/complex loop problems and basic pattern problems
-...
-Day30/
+| Day | Topics |
+|------|--------|
+| Day 01 | Java Internal Workings, Java Basics, Operators, Variables, Data Types |
+| Day 02 | Conditional Statements, Basic Loop Problems |
+| Day 03 | Complex Loop Problems, Basic Pattern Problems |
+| ... | ... |
+| Day 30 | Final Revision / Challenge Completion |
 
 
 Each folder contains:
