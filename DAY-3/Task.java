@@ -1,4 +1,4 @@
-//Some Complex loop problems
+//Some Complex loop problems and simple number patterns
 public class Task {
     public static void main(String[] args) {
         //primenumber();
@@ -13,7 +13,15 @@ public class Task {
         //HCF();
         //HCF2();
         //decimalTObinary();
-        binaryTOdecimal();
+        //binaryTOdecimal();
+        //pattern1();
+        //pattern2();
+        //pattern3();
+        //pattern4();
+        //pattern5();
+        //pattern6();
+        //pattern7();
+        pattern8();
     }
     static void primenumber(){
         int n=2;
@@ -212,5 +220,69 @@ public class Task {
             i++;
         }
         System.out.println(dec);
+    }
+    static void pattern1(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+            }
+        }
+    }
+    static void pattern2(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+                if(j%3==0)break;
+            }
+        }
+    }
+    static void pattern3(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+            }
+            if(i%3==0)break;
+        }
+    }
+    static void pattern4(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+                if(i%3==0)break;
+            }
+        }
+    }
+    static void pattern5(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+                if(i%3==0)break;
+            }
+           if(i%3==0)break; 
+        }
+    }
+    static void pattern6(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                System.out.println(i+" "+j);
+                if(i%2==0)break;
+            }
+            if(i%3==0)break;
+        }
+    }
+    static void pattern7(){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=i;j++){
+                System.out.println(i+" "+j);
+
+            }
+        }
+    }
+    static void pattern8(){
+        for(int i=1;i<=5;i++){
+            for(int j=5;j>=i;j--){
+                System.out.println(i+" "+j);
+            }
+        }
     }
 }
