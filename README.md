@@ -30,6 +30,7 @@ The goal of this challenge is to build consistency, improve coding speed, and de
 | Day 01 | Java Internal Workings, Java Basics, Operators, Variables, Data Types |
 | Day 02 | Conditional Statements, Basic Loop Problems |
 | Day 03 | Complex Loop Problems, Basic Pattern Problems |
+| Day 04 | Complex Pattern Problems |
 | ... | ... |
 | Day 30 | Final Revision / Challenge Completion |
 
@@ -48,12 +49,14 @@ Each folder contains:
 | Day 1 | ✅ |
 | Day 2 | ✅ |
 | Day 3 | ✅ |
+| Day 4 | ✅ |
 
 ## 💡 Topics Covered
 - Variables & Data Types
 - Operators
 - Conditional Statements
 - Loops
+- Patterns
 
 ## 🤝 Connect With Me
 
