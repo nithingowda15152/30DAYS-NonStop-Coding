@@ -31,6 +31,7 @@ The goal of this challenge is to build consistency, improve coding speed, and de
 | Day 02 | Conditional Statements, Basic Loop Problems |
 | Day 03 | Complex Loop Problems, Basic Pattern Problems |
 | Day 04 | Complex Pattern Problems |
+| Day 05 | Casting,Methods,Recursion |
 | ... | ... |
 | Day 30 | Final Revision / Challenge Completion |
 
@@ -50,6 +51,7 @@ Each folder contains:
 | Day 2 | ✅ |
 | Day 3 | ✅ |
 | Day 4 | ✅ |
+| Day 5 | ✅ |
 
 ## 💡 Topics Covered
 - Variables & Data Types
@@ -57,6 +59,9 @@ Each folder contains:
 - Conditional Statements
 - Loops
 - Patterns
+- Methods
+- Recursion
+- Casting
 
 ## 🤝 Connect With Me
 
