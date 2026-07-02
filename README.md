@@ -32,6 +32,7 @@ The goal of this challenge is to build consistency, improve coding speed, and de
 | Day 03 | Complex Loop Problems, Basic Pattern Problems |
 | Day 04 | Complex Pattern Problems |
 | Day 05 | Casting,Methods,Recursion |
+| Day 05 | How Object Works,Internal works |
 | ... | ... |
 | Day 30 | Final Revision / Challenge Completion |
 
@@ -52,6 +53,7 @@ Each folder contains:
 | Day 3 | ✅ |
 | Day 4 | ✅ |
 | Day 5 | ✅ |
+| Day 6 | ✅ |
 
 ## 💡 Topics Covered
 - Variables & Data Types
@@ -62,6 +64,7 @@ Each folder contains:
 - Methods
 - Recursion
 - Casting
+- How Object Works
 
 ## 🤝 Connect With Me
 
